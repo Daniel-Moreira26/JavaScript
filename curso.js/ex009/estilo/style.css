@@ -8,6 +8,15 @@ header {
     color: white;
 }
 
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+div > img#imagem {
+    border-radius: 10px;
+}
+
 section {
     background: white;
     border-radius: 10px;
@@ -21,4 +30,5 @@ footer {
     text-align: center;
     color: white;
     font-style: italic;
+    font-size: 16px;
 }
