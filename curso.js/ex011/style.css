@@ -1,0 +1,15 @@
+html {
+    background: rgba(18, 18, 175, 0.795);
+}
+body {
+    background: whitesmoke;
+}
+div#mensagem {
+    font-size: 1.1em;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+div#mensagem > input {
+    margin-bottom: 10px;
+}
